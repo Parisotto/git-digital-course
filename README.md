@@ -2,4 +2,5 @@
 
 ## Gravando mudanças no repositório local
 
-## Outra modificação
+* Uso do comando restore
+* Comando git push
